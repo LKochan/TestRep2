@@ -1,0 +1,18 @@
+Jednym z etapów fazy dekompozycji zapytania jest jego uproszczenie. Celem tego etapu jest:
+a) identyfikacja wyra¿eñ redundatnych,
+b) eliminacja wspólnych podwyra¿eñ
+c) transofmracja zapytania do postaci rownowa¿nej
+*d) ka¿de z powy¿szych
+zrodlo: http://wazniak.mimuw.edu.pl/images/c/c7/BD-2st-1.2-w12.tresc-1.1.pdf
+
+Najwiêkszy wp³yw na optymalizacjê czasu wykonania zapytania do bazy danych ma:
+*a) prawid³owo stworzony przez administraora indeks 
+b) mala iloœæ obiektów w tabeli
+c) poprawne dobranie silnika bazy danych
+zrodlo: http://carme.pld-linux.org/~evil/varia/informatyka/semestr_3/db/kurs_microsoft/13_bazy_danych_optymalizacja_baz_danych.pdf
+
+Optymalizacja statyczna zapytañ dla obiektowej bazy danych opartej o koncepcje SBA(Stack-Based Approach, podejœcie stosowe) polega na:
+*a) przepisywaniu zapytañ do równowa¿nej, ale efektywniejszej postaci w oparciu o sam¹ semantykê zapyatnia i podstaowe informacje o strukturze samej bazy
+b) rozbiciu bazy do postaci normalnej 1nf, 2nf lub 3nf
+c) ¿adne z powy¿szych
+zrodlo: http://jacenty.iis.p.lodz.pl/utility_software_i/msoffice/lab_04_ex_1.txt
