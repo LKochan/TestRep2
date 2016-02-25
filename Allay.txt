@@ -1,18 +1,20 @@
-Jednym z etapÛw fazy dekompozycji zapytania jest jego uproszczenie. Celem tego etapu jest:
-a) identyfikacja wyraøeÒ redundatnych,
-b) eliminacja wspÛlnych podwyraøeÒ
-c) transofmracja zapytania do postaci rownowaønej
-*d) kaøde z powyøszych
+Jednym z etap√≥w fazy dekompozycji zapytania jest jego uproszczenie. Celem tego etapu jest:
+a) identyfikacja wyra≈ºe≈Ñ redundatnych,
+b) eliminacja wsp√≥lnych podwyra≈ºe≈Ñ
+c) transofmracja zapytania do postaci rownowa≈ºnej
+*d) ka≈ºde z powy≈ºszych
 zrodlo: http://wazniak.mimuw.edu.pl/images/c/c7/BD-2st-1.2-w12.tresc-1.1.pdf
 
-NajwiÍkszy wp≥yw na optymalizacjÍ czasu wykonania zapytania do bazy danych ma:
-*a) prawid≥owo stworzony przez administraora indeks 
-b) mala iloúÊ obiektÛw w tabeli
+Najwiƒôkszy wp≈Çyw na optymalizacjƒô czasu wykonania zapytania do bazy danych ma:
+*a) prawid≈Çowo stworzony przez administraora indeks 
+b) mala ilo≈õƒá obiekt√≥w w tabeli
 c) poprawne dobranie silnika bazy danych
 zrodlo: http://carme.pld-linux.org/~evil/varia/informatyka/semestr_3/db/kurs_microsoft/13_bazy_danych_optymalizacja_baz_danych.pdf
 
-Optymalizacja statyczna zapytaÒ dla obiektowej bazy danych opartej o koncepcje SBA(Stack-Based Approach, podejúcie stosowe) polega na:
-*a) przepisywaniu zapytaÒ do rÛwnowaønej, ale efektywniejszej postaci w oparciu o samπ semantykÍ zapyatnia i podstaowe informacje o strukturze samej bazy
+Optymalizacja statyczna zapyta≈Ñ dla obiektowej bazy danych opartej o koncepcje SBA(Stack-Based Approach, podej≈õcie stosowe) polega na:
+*a) przepisywaniu zapyta≈Ñ do r√≥wnowa≈ºnej, ale efektywniejszej postaci w oparciu o samƒÖ semantykƒô zapyatnia i podstaowe informacje o strukturze samej bazy
 b) rozbiciu bazy do postaci normalnej 1nf, 2nf lub 3nf
-c) øadne z powyøszych
+c) ≈ºadne z powy≈ºszych
 zrodlo: http://jacenty.iis.p.lodz.pl/utility_software_i/msoffice/lab_04_ex_1.txt
+
+kochan raz dwa trzy kurwy
