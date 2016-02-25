@@ -1,3 +1,9 @@
+
+
+
+
+
+
 Jednym z etapów fazy dekompozycji zapytania jest jego uproszczenie. Celem tego etapu jest:
 a) identyfikacja wyrażeń redundatnych,
 b) eliminacja wspólnych podwyrażeń
